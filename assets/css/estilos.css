@@ -55,7 +55,7 @@ input, select {
 }
 
 input:focus, select:focus{
-    border-color:rgb(54, 54, 212) ;
+    border-color:rgb(212, 78, 54) ;
     box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
 }
 
